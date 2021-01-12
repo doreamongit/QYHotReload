@@ -1,0 +1,6 @@
+framework module AHHRSocket {
+  umbrella header "AHHRSocket.h"
+
+  export *
+  module * { export * }
+}
